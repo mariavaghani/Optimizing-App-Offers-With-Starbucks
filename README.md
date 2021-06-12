@@ -23,9 +23,10 @@ The article accompanying this project is available [here](https://maria-vaghani.
 - xgboost
 
 # Overview
-I. Data Pre-Processing
+**I. Data Pre-Processing**
   Creating additional features and reformating data into customer-offer pairs
-II. Exploratory Data Analysis
+  
+**II. Exploratory Data Analysis**
   Answering some business questions:
   1. What is the age distribution of Starbucks customers?
   2. What is the income distribution of Starbucks customers?
@@ -37,7 +38,7 @@ II. Exploratory Data Analysis
   8. What is the distribution of total rewards and total amount spend by customers?
   9. What is the most popular offer? What is the least popular offer?
   
-III. Machine Learning Algorithm and GridSearch
+**III. Machine Learning Algorithm and GridSearch**
   Implementation and Machine Learning Model, selection of the best performing one, and its improvement, followed by evaluation of the model.
 
 # Files
