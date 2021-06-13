@@ -8,6 +8,7 @@ The business does not want to send out offers, if the customer would have made a
 One of the biggest challenges of this project is that the system marks each offer as complete, even if the customer has not seen the offer, but made a purchase anyway. Starbucks would not prefer to send offers to these customers, since the sale would happen regardless of the offer, but the company had to give out the reward. The goal of this project is to process the data to exclude these kind of completions and predict the customers who would actually get influenced by the offer to make a purchase.
 
 The article accompanying this project is available [here](https://maria-vaghani.medium.com/customer-segmentation-of-starbucks-customers-19332b9b7c92)
+GitHub repository [link](https://github.com/mariavaghani/Optimizing-App-Offers-With-Starbucks)
 
 # Libraries Used:
 - pandas
